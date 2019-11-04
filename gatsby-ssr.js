@@ -1,5 +1,6 @@
 /**
- * Implement Gatsby's SSR (Server Side Rendering) APIs in this file.
+ * WHAT'S THIS FILE FOR?
+ * Use Gatsby's server-side rendering (SSR) APIs to customize and default settings affecting server-side rendering.
  *
  * See: https://www.gatsbyjs.org/docs/ssr-apis/
  */

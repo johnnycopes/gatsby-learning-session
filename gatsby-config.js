@@ -1,3 +1,8 @@
+/* WHAT'S THIS FILE FOR?
+
+Configuring options for a Gatsby site with metadata for project title, description, plugins, etc.
+*/
+
 module.exports = {
   siteMetadata: {
     title: `Gatsby Default Starter`,
